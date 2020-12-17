@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Acer Nitro 5",
+      "price": 15000.29
+    },
+    {
+      "name": "Notebook Dell G5",
+      "price": "15000",
+      "id": 5
+    },
+    {
+      "name": "testeee",
+      "price": "111",
+      "id": 7
+    },
+    {
+      "name": "dddddddddddd",
+      "price": "1",
+      "id": 8
+    },
+    {
+      "name": "dsdsdsds",
+      "price": "1",
+      "id": 9
+    },
+    {
+      "name": "yefdfd",
+      "price": "111",
+      "id": 10
+    },
+    {
+      "name": "dssds",
+      "price": "100",
+      "id": 11
+    },
+    {
+      "name": "teste",
+      "price": "100",
+      "id": 12
+    },
+    {
+      "name": "dfdf",
+      "price": "333",
+      "id": 13
+    }
+  ]
+}
